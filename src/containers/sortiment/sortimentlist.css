@@ -1,0 +1,13 @@
+.slide__sortimentlist {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    background-color: var(--color-sortiment);
+}
+
+.active  {
+    background-color: var(--color-sortiment-active);
+    border-radius: 1rem;
+}

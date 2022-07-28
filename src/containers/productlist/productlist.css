@@ -1,0 +1,17 @@
+.slide__products {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    background-color: var(--color-productlist);
+}
+
+.slide__products-bar {
+    height: 1rem;
+    width: 100%;
+    background-color: var(--color-bar);
+}
+
+.slide__products-container {
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,7 @@
+.slide__contacts-scroll { 
+    width: 0;
+    height: 100vh;
+    display: flex;
+    position: absolute;
+    margin-top: -40vh;
+}

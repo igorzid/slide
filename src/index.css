@@ -1,13 +1,40 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+:root {
+    --font-family: 'Roboto', sans-serif;
+
+    /* --color-contact: #31709e;
+    --color-sortiment: #8fc1e3;
+    --color-title: #687864;
+    --color-text: #f7f9fb; */
+
+    --color-title: #0d0d0d;
+    --color-text: #0d0d0d;
+    --color-navbar: #ef9273;
+    --color-menu: #0d0d0d;
+    --color-header: #fef9f8;
+    --color-contact: #ef9273;
+    --color-sortiment: #fef9f8;
+    --color-sortiment-active: rgba(239, 146, 115, 0.2);
+    --color-bar: #ef9273;
+    --color-productlist: #fef9f8;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+/* .gradient-header { 
+
+    ff 3.6+ 
+    background:-moz-radial-gradient(circle at 17% 33%, rgba(49, 112, 142, 1) 0%, rgba(80, 133, 165, 1) 100%);
+
+    safari 5.1+,chrome 10+
+    background:-webkit-radial-gradient(circle at 17% 33%, rgba(49, 112, 142, 1) 0%, rgba(80, 133, 165, 1) 100%);
+
+    opera 11.10+
+    background:-o-radial-gradient(circle at 17% 33%, rgba(49, 112, 142, 1) 0%, rgba(80, 133, 165, 1) 100%);
+
+    ie 10+
+    background:-ms-radial-gradient(circle at 17% 33%, rgba(49, 112, 142, 1) 0%, rgba(80, 133, 165, 1) 100%);
+
+    global 92%+ browsers support
+    background:radial-gradient(circle at 17% 33%, rgba(49, 112, 142, 1) 0%, rgba(80, 133, 165, 1) 100%);
+
+} */
