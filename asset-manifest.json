@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/slide/static/css/main.22a8bcbf.css",
+    "main.js": "/slide/static/js/main.67800d8c.js",
+    "static/media/headerimg.png": "/slide/static/media/headerimg.c19a18681d6e4a0bed69.png",
+    "static/media/whatsapp.webp": "/slide/static/media/whatsapp.ec7bb6f54e560c939159.webp",
+    "static/media/twitter.webp": "/slide/static/media/twitter.835b1759d1d4175a1162.webp",
+    "static/media/gplus.webp": "/slide/static/media/gplus.dc7171cdb1877c6d81aa.webp",
+    "static/media/linkedin.webp": "/slide/static/media/linkedin.4f469e3e61c088e85f41.webp",
+    "static/media/facebook.webp": "/slide/static/media/facebook.67e7bde5debc156200b0.webp",
+    "static/media/productimg.webp": "/slide/static/media/productimg.1c74b52521843610c110.webp",
+    "static/media/sortimentimg.webp": "/slide/static/media/sortimentimg.e6ccd415a652d81d96cc.webp",
+    "static/media/logo.svg": "/slide/static/media/logo.8321c572c26dd42f92edb6b3a1a58a99.svg",
+    "index.html": "/slide/index.html",
+    "main.22a8bcbf.css.map": "/slide/static/css/main.22a8bcbf.css.map",
+    "main.67800d8c.js.map": "/slide/static/js/main.67800d8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22a8bcbf.css",
+    "static/js/main.67800d8c.js"
+  ]
+}
